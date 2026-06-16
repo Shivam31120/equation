@@ -1,3 +1,6 @@
+
+**Live App:** [Click here](https://equation-atdcapxc56jhj4krcpxv7e.streamlit.app/)
+
 # Equation Visualizer
 
 ## Overview
